@@ -5,8 +5,6 @@ blis==0.7.8
 catalogue==2.0.7
 certifi==2022.6.15
 charset-normalizer==2.0.12
-chatbot==1.5.2b0
-ChatterBot==1.0.8
 click==8.0.4
 colorama==0.4.5
 commonmark==0.9.1
